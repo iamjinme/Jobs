@@ -8,4 +8,4 @@ We are a group of startups rapidly growing, working on the social media and Inte
 * [Senior Front End Developer](FrontEnd.md)
 * [Senior Back End Developer](BackEnd.md)
 
-Please send your resume to (contacto@medialop.com)[mailto:contacto@medialop.com]
+Please send your resume to contacto@medialop.com
