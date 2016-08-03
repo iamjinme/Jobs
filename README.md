@@ -8,4 +8,7 @@ We are a group of startups rapidly growing, working on the social media and Inte
 * [Senior Front End Developer](FrontEnd.md)
 * [Senior Back End Developer](BackEnd.md)
 
+##Ubication of work
+Colombia, Medellín
+
 Please send your resume to contacto@medialop.com
