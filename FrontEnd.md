@@ -22,6 +22,8 @@ You will be primarily focused on the layout and interaction layers of our custom
 
 **Vacancies:** 2
 
-**Salary (NET):** 9.450.000 
+**Salary (NET):** 
+- $ 9'450.000 **COP**
+- $ 3052 **USD**
 
 Please send your resume to [contacto@medialop.com](mailto:contacto@medialop.com)
